@@ -1,0 +1,416 @@
+[{'book_id': 1, 'title': 'Harry Potter and the Sorcerers Stone', 'description': 'Harry Potters life is miserable. His parents are dead and hes stuck with his heartless relatives.', 'rating': 4.48, 'price': 750}, {'book_id': 2, 'title': 'Harry Potter and the Deathly Hallows', 'description': 'Harry Potter is leaving Privet Drive for the last time.', 'rating': 4.62, 'price': 800}, {'book_id': 3, 'title': 'Harry Potter and the Prisoner of Azkaban', 'description': 'For twelve long years, the dread fortress of Azkaban held an infamous prisoner named Sirius Black.', 'rating': 4.57, 'price': 900}, {'book_id': 4, 'title': 'Harry Potter and the Chamber of Secrets', 'description': 'Ever since Harry Potter had come home for the summer.', 'rating': 4.43, 'price': 850}, {'book_id': 5, 'title': 'Harry Potter and the Goblet of Fire', 'description': 'Harry Potter is midway through his training as a wizard and his coming of age.', 'rating': 4.56, 'price': 900}, {'book_id': 6, 'title': 'A Study in Scarlet', 'description': 'A Study in Scarlet is the first published story of one of the most famous literary detectives of all time, Sherlock Holmes.', 'rating': 4.15, 'price': 850}, {'book_id': 7, 'title': 'The Hound of the Baskervilles', 'description': 'We owe The Hound of the Baskervilles (1902) to Arthur Conan Doyles good friend Fletcher.', 'rating': 4.12, 'price': 750}, {'book_id': 8, 'title': 'The Adventures of Sherlock Holmes', 'description': 'The Adventures of Sherlock Holmes is the series of short stories that made the fortunes of the Strand magazine.', 'rating': 4.3, 'price': 900}, {'book_id': 9, 'title': 'The Complete Sherlock Holmes', 'description': 'Adventures of Sherlock Holmes : A scandal in Bohemia.', 'rating': 4.47, 'price': 1000}, {'book_id': 10, 'title': 'The Sign of Four', 'description': 'As a dense yellow fog swirls through the streets of London, a deep melancholy has descended on Sherlock Holmes.', 'rating': 3.93, 'price': 600}, {'book_id': 11, 'title': 'The Hobbit, or There and Back Again', 'description': 'In a hole in the ground there lived a hobbit. Not a nasty, dirty, wet hole.', 'rating': 4.28, 'price': 950}, {'book_id': 12, 'title': 'The Fellowship of the Ring', 'description': 'One Ring to rule them all, One Ring to find them, One Ring to bring them all and in the darkeness bind them.', 'rating': 4.37, 'price': 750}, {'book_id': 13, 'title': 'The Two Towers', 'description': 'Frodo and his Companions of the Ring have been beset by danger.', 'rating': 4.45, 'price': 650}, {'book_id': 14, 'title': 'The Return of the King', 'description': 'In the third volume of The Lord of the Rings trilogy the good and evil forces join battle.', 'rating': 4.53, 'price': 1050}, {'book_id': 15, 'title': 'The Lord of the Rings', 'description': 'In ancient times the Rings of Power were crafted by the Elven-smiths, and Sauron, the Dark Lord, forged the One Ring, filling it with his own power.', 'rating': 4.5, 'price': 850}, {'book_id': 16, 'title': 'Angels & Demons', 'description': 'World-renowned Harvard symbologist Robert Langdon is summoned to a Swiss research facility to analyze a cryptic symbol.', 'rating': 3.91, 'price': 950}, {'book_id': 17, 'title': 'The Da Vinci Code', 'description': 'While in Paris, Harvard symbologist Robert Langdon is awakened by a phone call in the dead of the night.', 'rating': 3.87, 'price': 950}, {'book_id': 18, 'title': 'Deception Point', 'description': 'A shocking scientific discovery.A conspiracy of staggering brilliance.', 'rating': 3.72, 'price': 850}, {'book_id': 19, 'title': 'Digital Fortress', 'description': 'When the National Security Agencys invincible code-breaking machine encounters a mysterious code it cannot break.', 'rating': 3.67, 'price': 750}, {'book_id': 20, 'title': 'The Lost Symbol', 'description': 'In this stunning follow-up to the global phenomenon The Da Vinci Code.', 'rating': 3.72, 'price': 1050}, {'book_id': 21, 'title': 'Romeo and Juliet', 'description': 'In Romeo and Juliet, Shakespeare creates a violent world, in which two young people fall in love.', 'rating': 3.75, 'price': 1200}, {'book_id': 22, 'title': 'Hamlet', 'description': 'Among Shakespeares plays, Hamlet is considered by many his masterpiece. ', 'rating': 4.03, 'price': 980}, {'book_id': 23, 'title': 'Macbeth', 'description': 'One night on the heath, the brave and respected general Macbeth encounters three witches.', 'rating': 3.91, 'price': 1500}, {'book_id': 24, 'title': 'A Midsummer Nights Dream', 'description': 'Shakespeares intertwined love polygons begin to get complicated from the start.', 'rating': 3.95, 'price': 1100}, {'book_id': 25, 'title': 'Twilight', 'description': 'About three things I was absolutely positive.', 'rating': 3.61, 'price': 1400}, {'book_id': 26, 'title': 'Eclipse', 'description': 'Edwards soft voice came from behind me. ', 'rating': 3.7, 'price': 1050}, {'book_id': 27, 'title': 'New Moon', 'description': 'I knew we were both in mortal danger.', 'rating': 3.55, 'price': 1150}, {'book_id': 28, 'title': 'Breaking Dawn', 'description': 'I was abruptly overwhelmed by the truth of my own words.', 'rating': 3.7, 'price': 1300}, {'book_id': 29, 'title': 'And Then There Were None', 'description': 'First, there were ten a curious assortment of strangers summoned as weekend guests.', 'rating': 4.26, 'price': 1500}, {'book_id': 30, 'title': 'The Mysterious Affair at Styles', 'description': 'Agatha Christies debut novel was the first to feature Hercule Poirot.', 'rating': 3.98, 'price': 1550}, {'book_id': 31, 'title': 'Murder on the Orient Express', 'description': 'Just after midnight, a snowdrift stops the Orient Express in its tracks.', 'rating': 4.18, 'price': 1350}, {'book_id': 32, 'title': 'Murder at the Vicarage', 'description': 'It was a careless remark for a man of the cloth.', 'rating': 4.06, 'price': 1250}, {'book_id': 33, 'title': 'The Immortals of Meluha', 'description': '1900 BC. In what modern Indians mistakenly call the Indus Valley Civilisation.', 'rating': 4.1, 'price': 1450}, {'book_id': 34, 'title': 'The Secret of the Nagas', 'description': 'The hunt is on. The sinister Naga warrior has killed his friend Brahaspati and now stalks his wife Sati', 'rating': 4.07, 'price': 750}, {'book_id': 35, 'title': 'The Oath of the Vayuputras', 'description': 'Shiva is gathering his forces. He reaches the Naga capital, Panchavati, and Evil is finally revealed.', 'rating': 3.79, 'price': 650}, {'book_id': 36, 'title': 'Scion of Ikshvaku', 'description': 'Ram Rajya. The Perfect Land. But perfection has a price. He paid that price.', 'rating': 3.82, 'price': 850}, {'book_id': 37, 'title': 'The 3 Mistakes of My Life', 'description': 'Six friends work nights at a call center in India, providing technical support for a major U.S.', 'rating': 3.03, 'price': 950}, {'book_id': 38, 'title': 'One Night at the Call Center', 'description': 'Once upon a time, there was a Bihari boy called Madhav.', 'rating': 2.51, 'price': 750}, {'book_id': 39, 'title': 'Half Girlfriend', 'description': 'In his latest book, What Young India Wants, Chetan Bhagat asks hard questions, demands answers and presents solutions for a better, more prosperous India.', 'rating': 3.14, 'price': 900}, {'book_id': 40, 'title': 'What Young India Wants', 'description': 'Love marriages around the world are simple: Boy loves girl. Girl loves boy.', 'rating': 3.27, 'price': 1000}]
+
+
+  /*try {
+    db = await open({
+      filename: dbPath,
+      driver: sqlite3.Database,
+    });*/
+
+    /*} catch (e) {
+    console.log(`DB Error: ${e.message}`);
+    process.exit(1);
+  }*/
+  var bok = [
+  {
+    book_id: 1,
+    title: "Harry Potter and the Sorcerers Stone",
+    description:
+      "Harry Potters life is miserable. His parents are dead and hes stuck with his heartless relatives.",
+    rating: 4.48,
+    price: 750,
+  },
+  {
+    book_id: 2,
+    title: "Harry Potter and the Deathly Hallows",
+    description: "Harry Potter is leaving Privet Drive for the last time.",
+    rating: 4.62,
+    price: 800,
+  },
+  {
+    book_id: 3,
+    title: "Harry Potter and the Prisoner of Azkaban",
+    description:
+      "For twelve long years, the dread fortress of Azkaban held an infamous prisoner named Sirius Black.",
+    rating: 4.57,
+    price: 900,
+  },
+  {
+    book_id: 4,
+    title: "Harry Potter and the Chamber of Secrets",
+    description: "Ever since Harry Potter had come home for the summer.",
+    rating: 4.43,
+    price: 850,
+  },
+  {
+    book_id: 5,
+    title: "Harry Potter and the Goblet of Fire",
+    description:
+      "Harry Potter is midway through his training as a wizard and his coming of age.",
+    rating: 4.56,
+    price: 900,
+  },
+  {
+    book_id: 6,
+    title: "A Study in Scarlet",
+    description:
+      "A Study in Scarlet is the first published story of one of the most famous literary detectives of all time, Sherlock Holmes.",
+    rating: 4.15,
+    price: 850,
+  },
+  {
+    book_id: 7,
+    title: "The Hound of the Baskervilles",
+    description:
+      "We owe The Hound of the Baskervilles (1902) to Arthur Conan Doyles good friend Fletcher.",
+    rating: 4.12,
+    price: 750,
+  },
+  {
+    book_id: 8,
+    title: "The Adventures of Sherlock Holmes",
+    description:
+      "The Adventures of Sherlock Holmes is the series of short stories that made the fortunes of the Strand magazine.",
+    rating: 4.3,
+    price: 900,
+  },
+  {
+    book_id: 9,
+    title: "The Complete Sherlock Holmes",
+    description: "Adventures of Sherlock Holmes : A scandal in Bohemia.",
+    rating: 4.47,
+    price: 1000,
+  },
+  {
+    book_id: 10,
+    title: "The Sign of Four",
+    description:
+      "As a dense yellow fog swirls through the streets of London, a deep melancholy has descended on Sherlock Holmes.",
+    rating: 3.93,
+    price: 600,
+  },
+  {
+    book_id: 11,
+    title: "The Hobbit, or There and Back Again",
+    description:
+      "In a hole in the ground there lived a hobbit. Not a nasty, dirty, wet hole.",
+    rating: 4.28,
+    price: 950,
+  },
+  {
+    book_id: 12,
+    title: "The Fellowship of the Ring",
+    description:
+      "One Ring to rule them all, One Ring to find them, One Ring to bring them all and in the darkeness bind them.",
+    rating: 4.37,
+    price: 750,
+  },
+  {
+    book_id: 13,
+    title: "The Two Towers",
+    description:
+      "Frodo and his Companions of the Ring have been beset by danger.",
+    rating: 4.45,
+    price: 650,
+  },
+  {
+    book_id: 14,
+    title: "The Return of the King",
+    description:
+      "In the third volume of The Lord of the Rings trilogy the good and evil forces join battle.",
+    rating: 4.53,
+    price: 1050,
+  },
+  {
+    book_id: 15,
+    title: "The Lord of the Rings",
+    description:
+      "In ancient times the Rings of Power were crafted by the Elven-smiths, and Sauron, the Dark Lord, forged the One Ring, filling it with his own power.",
+    rating: 4.5,
+    price: 850,
+  },
+  {
+    book_id: 16,
+    title: "Angels & Demons",
+    description:
+      "World-renowned Harvard symbologist Robert Langdon is summoned to a Swiss research facility to analyze a cryptic symbol.",
+    rating: 3.91,
+    price: 950,
+  },
+  {
+    book_id: 17,
+    title: "The Da Vinci Code",
+    description:
+      "While in Paris, Harvard symbologist Robert Langdon is awakened by a phone call in the dead of the night.",
+    rating: 3.87,
+    price: 950,
+  },
+  {
+    book_id: 18,
+    title: "Deception Point",
+    description:
+      "A shocking scientific discovery.A conspiracy of staggering brilliance.",
+    rating: 3.72,
+    price: 850,
+  },
+  {
+    book_id: 19,
+    title: "Digital Fortress",
+    description:
+      "When the National Security Agencys invincible code-breaking machine encounters a mysterious code it cannot break.",
+    rating: 3.67,
+    price: 750,
+  },
+  {
+    book_id: 20,
+    title: "The Lost Symbol",
+    description:
+      "In this stunning follow-up to the global phenomenon The Da Vinci Code.",
+    rating: 3.72,
+    price: 1050,
+  },
+  {
+    book_id: 21,
+    title: "Romeo and Juliet",
+    description:
+      "In Romeo and Juliet, Shakespeare creates a violent world, in which two young people fall in love.",
+    rating: 3.75,
+    price: 1200,
+  },
+  {
+    book_id: 22,
+    title: "Hamlet",
+    description:
+      "Among Shakespeares plays, Hamlet is considered by many his masterpiece. ",
+    rating: 4.03,
+    price: 980,
+  },
+  {
+    book_id: 23,
+    title: "Macbeth",
+    description:
+      "One night on the heath, the brave and respected general Macbeth encounters three witches.",
+    rating: 3.91,
+    price: 1500,
+  },
+  {
+    book_id: 24,
+    title: "A Midsummer Nights Dream",
+    description:
+      "Shakespeares intertwined love polygons begin to get complicated from the start.",
+    rating: 3.95,
+    price: 1100,
+  },
+  {
+    book_id: 25,
+    title: "Twilight",
+    description: "About three things I was absolutely positive.",
+    rating: 3.61,
+    price: 1400,
+  },
+  {
+    book_id: 26,
+    title: "Eclipse",
+    description: "Edwards soft voice came from behind me. ",
+    rating: 3.7,
+    price: 1050,
+  },
+  {
+    book_id: 27,
+    title: "New Moon",
+    description: "I knew we were both in mortal danger.",
+    rating: 3.55,
+    price: 1150,
+  },
+  {
+    book_id: 28,
+    title: "Breaking Dawn",
+    description: "I was abruptly overwhelmed by the truth of my own words.",
+    rating: 3.7,
+    price: 1300,
+  },
+  {
+    book_id: 29,
+    title: "And Then There Were None",
+    description:
+      "First, there were ten a curious assortment of strangers summoned as weekend guests.",
+    rating: 4.26,
+    price: 1500,
+  },
+  {
+    book_id: 30,
+    title: "The Mysterious Affair at Styles",
+    description:
+      "Agatha Christies debut novel was the first to feature Hercule Poirot.",
+    rating: 3.98,
+    price: 1550,
+  },
+  {
+    book_id: 31,
+    title: "Murder on the Orient Express",
+    description:
+      "Just after midnight, a snowdrift stops the Orient Express in its tracks.",
+    rating: 4.18,
+    price: 1350,
+  },
+  {
+    book_id: 32,
+    title: "Murder at the Vicarage",
+    description: "It was a careless remark for a man of the cloth.",
+    rating: 4.06,
+    price: 1250,
+  },
+  {
+    book_id: 33,
+    title: "The Immortals of Meluha",
+    description:
+      "1900 BC. In what modern Indians mistakenly call the Indus Valley Civilisation.",
+    rating: 4.1,
+    price: 1450,
+  },
+  {
+    book_id: 34,
+    title: "The Secret of the Nagas",
+    description:
+      "The hunt is on. The sinister Naga warrior has killed his friend Brahaspati and now stalks his wife Sati",
+    rating: 4.07,
+    price: 750,
+  },
+  {
+    book_id: 35,
+    title: "The Oath of the Vayuputras",
+    description:
+      "Shiva is gathering his forces. He reaches the Naga capital, Panchavati, and Evil is finally revealed.",
+    rating: 3.79,
+    price: 650,
+  },
+  {
+    book_id: 36,
+    title: "Scion of Ikshvaku",
+    description:
+      "Ram Rajya. The Perfect Land. But perfection has a price. He paid that price.",
+    rating: 3.82,
+    price: 850,
+  },
+  {
+    book_id: 37,
+    title: "The 3 Mistakes of My Life",
+    description:
+      "Six friends work nights at a call center in India, providing technical support for a major U.S.",
+    rating: 3.03,
+    price: 950,
+  },
+  {
+    book_id: 38,
+    title: "One Night at the Call Center",
+    description: "Once upon a time, there was a Bihari boy called Madhav.",
+    rating: 2.51,
+    price: 750,
+  },
+  {
+    book_id: 39,
+    title: "Half Girlfriend",
+    description:
+      "In his latest book, What Young India Wants, Chetan Bhagat asks hard questions, demands answers and presents solutions for a better, more prosperous India.",
+    rating: 3.14,
+    price: 900,
+  },
+  {
+    book_id: 40,
+    title: "What Young India Wants",
+    description:
+      "Love marriages around the world are simple: Boy loves girl. Girl loves boy.",
+    rating: 3.27,
+    price: 1000,
+  },
+];
+const author = [
+  {
+    author_id: 1,
+    name: "J.K. Rowling",
+    birth_place: "England, The United Kingdom",
+    birth_date: "July 31st 1965",
+    genre: "Fiction, Young Adult, Fantasy",
+    followers_count: 213350,
+    about_author:
+      "Although she writes under the pen name J.K. Rowling, pronounced like rolling, her name when her first Harry Potter book was published was simply Joanne Rowling.",
+  },
+  {
+    author_id: 2,
+    name: "Arthur Conan Doyle",
+    birth_place: "Edinburgh, Scotland",
+    birth_date: "July 7th 1930",
+    genre: "Fiction, Crime, Thriller",
+    followers_count: 19162,
+    about_author:
+      "Sir Arthur Conan Doyle was born the third of ten siblings on 22 May 1859 in Edinburgh, Scotland.",
+  },
+  {
+    author_id: 3,
+    name: "J.R.R. Tolkien",
+    birth_place: "Mangaung, South Afric",
+    birth_date: "September 2nd 1973",
+    genre: "Fantasy, Fiction, Childrens",
+    followers_count: 59714,
+    about_author:
+      "John Ronald Reuel Tolkien, CBE was an English writer, poet, WWI veteran (a First Lieutenant in the Lancashire Fusiliers, British Army), philologist, and university professor.",
+  },
+  {
+    author_id: 4,
+    name: "Dan Brown",
+    birth_place: "New Hampshire, The United States",
+    birth_date: "June 22nd 1964",
+    genre: "Mystery,Thrillers, Fiction, Suspense",
+    followers_count: 88006,
+    about_author: "Dan Brown is the author of numerous #1 bestselling novels.",
+  },
+  {
+    author_id: 5,
+    name: "William Shakespeare",
+    birth_place: "England, The United Kingdom",
+    birth_date: "April 26th 1564",
+    genre: "Theatre, Classics, Poetry",
+    followers_count: 36987,
+    about_author:
+      "William Shakespeare (baptised 26 April 1564) was an English poet and playwright, widely regarded as the greatest writer in the English language. ",
+  },
+  {
+    author_id: 6,
+    name: "Stephenie Meyer",
+    birth_place: "Connecticut, The United States",
+    birth_date: "December 24th 1973",
+    genre: "Science Fiction & Fantasy, Paranormal Romance, Young Adult",
+    followers_count: 65595,
+    about_author:
+      "Stephenie Meyer is the author of the bestselling Twilight series, The Host, and The Chemist. ",
+  },
+  {
+    author_id: 7,
+    name: "Agatha Christie",
+    birth_place: "England, The United Kingdom",
+    birth_date: "January 12th 1976",
+    genre: "Mystery, Crime, Thriller",
+    followers_count: 44936,
+    about_author: "Agatha Christie is the best-selling author of all time. ",
+  },
+  {
+    author_id: 8,
+    name: "Amish Tripathi",
+    birth_place: "India",
+    birth_date: "October 18th 1974",
+    genre: "Mythological,historical Fiction, Fiction, Fantasy",
+    followers_count: 5549,
+    about_author:
+      "Amish is an IIM (Kolkata) educated, banker turned award-winning author",
+  },
+  {
+    author_id: 9,
+    name: "Chetan Bhagat",
+    birth_place: "New Delhi, India",
+    birth_date: "April 22, 1974",
+    genre: "Fiction",
+    followers_count: 4748,
+    about_author:
+      "Chetan Bhagat writes op-ed columns for English and Hindi newspapers, including Times of India.",
+  },
+];
